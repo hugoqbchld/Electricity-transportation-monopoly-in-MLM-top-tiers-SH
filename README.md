@@ -21,5 +21,5 @@ Step 4 : hypothese of 100 WP's shares ownership / Qcap's circulating supply
 - for 3 death/day -> 599,112,400/3,500,717 = 171 qubic/Qcap/month/100*SC
 
 Step 5 : MLM will likely be published on Steam or the Epic Games Store, with Epic Games being the more likely option, with 800M players. These could be conservative numbers, actual number could be 20* or 200* higher 
- => for 1 death/day -> 880 Qu per Qcap per month or 8,880 Qu per Qcap per month per 100 shares 
- => for 3 death/day -> 3,420 Qu or 34,200 Qu per Qcap per month per 100 shares
+- for 1 death/day -> 880 Qu per Qcap per month or 8,880 Qu per Qcap per month per 100 shares
+- for 3 death/day -> 3,420 Qu or 34,200 Qu per Qcap per month per 100 shares
