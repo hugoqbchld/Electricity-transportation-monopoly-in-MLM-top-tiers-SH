@@ -23,3 +23,11 @@ Step 4 : hypothese of 100 WP's shares ownership / Qcap's circulating supply
 Step 5 : MLM will likely be published on Steam or the Epic Games Store, with Epic Games being the more likely option, with 800M players. These could be conservative numbers, actual number could be 20* or 200* higher 
 - for 1 death/day -> 880 Qu per Qcap per month or 8,880 Qu per Qcap per month per 100 shares
 - for 3 death/day -> 3,420 Qu or 34,200 Qu per Qcap per month per 100 shares
+
+=> without counting transportation & electricity monopoly 
+- 2 out of the 4 monopolies
+- ℹ️ GP#4 proposal is about the third monopoly : water
+- if this IPO proposal is aproved & the General Proposal #4 is also aproved
+- => Qcap could benefit from potential explosive 💥 revenu -> from 3 monopolies out of the 4 present in MLM game
+  
+=> This does not include income from trading taxes, jobs platform fees, military income, or other Safehouse services — which can be substantial.
