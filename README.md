@@ -28,7 +28,7 @@ Step 5 : MLM will likely be published on Steam or the Epic Games Store, with Epi
 - 2 out of the 4 monopolies
 - ℹ️ GP#4 proposal is about the third monopoly : water
 - if both : this IPO proposal & the General Proposal #4 is aproved by You, the Quorum, then
-- -> Qcap would earn 💥 explosive 💥 revenue from 3 monopolies out of the 4 present in the MLM game   
+ -> Qcap would earn 💥 explosive 💥 revenue from 3 monopolies out of the 4 present in the MLM game   
   
 => This does not include income from trading taxes, jobs platform fees, military income, or other Safehouse services which can be substantial
 
