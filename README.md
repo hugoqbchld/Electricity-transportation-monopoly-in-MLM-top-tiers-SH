@@ -10,7 +10,7 @@ Step 1 : with a resurrection fee of 1,000,000 Qubic per resurrection :
 
 Step 2 : net to SC holder :
 - for 1 death/day -> 1.05B qubic/month
-- for 2 death/day -> 4.05B qubic/month
+- for 3 death/day -> 4.05B qubic/month
 
 Step 3 : per SC share :
 - for 1 death/day -> 1.05B/676 = 1,553,254 qubic/month/SC
