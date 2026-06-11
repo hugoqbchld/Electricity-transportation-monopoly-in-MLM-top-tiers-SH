@@ -31,3 +31,10 @@ Step 5 : MLM will likely be published on Steam or the Epic Games Store, with Epi
 - -> Qcap would earn 💥 explosive 💥 revenue from 3 monopolies out of the 4 present in the MLM game   
   
 => This does not include income from trading taxes, jobs platform fees, military income, or other Safehouse services which can be substantial.
+
+
+ 🗳️ vote Yes ✅ if you want Qcap to bid on GGWP IPO. In that case, please also enter the amount you want to allocate from existing funds.
+
+ 🗳️ Vote No if you do not want Qcap to bid at all.
+
+The final amount that Qubic Capital will bid will be calculated as the weighted average among Yes votes.
