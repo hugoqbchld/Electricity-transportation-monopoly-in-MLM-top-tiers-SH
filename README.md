@@ -32,7 +32,7 @@ Step 5 : MLM will likely be published on Steam or the Epic Games Store, with Epi
   
 => This does not include income from trading taxes, jobs platform fees, military income, or other Safehouse services which can be substantial
 
-⚠️ This proposal was submited in double, vote only IPO-2/IPO#2
+⚠️ This proposal was submited in double by mistake, vote only IPO-2/IPO#2
 
  🗳️ Vote Yes ✅ if you want Qcap to bid on GGWP IPO. In that case, please also enter the amount you want to allocate from existing funds.
 
