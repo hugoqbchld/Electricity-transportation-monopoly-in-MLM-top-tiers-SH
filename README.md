@@ -1,4 +1,4 @@
-# Electricity-transportation-monopolies-resurrection-fee-in-MLM-extra-revenu
+# Electricity-transportation-monopolies-resurrection-fee-in-MLM-and-others-revenues
 
 Dear Qcap's Quorum,
 
